@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => 'root',
-	'database' => 'crud',
+	'hostname' => 'https://example-ymci.rhcloud.com/phpmyadmin/',
+	'username' => 'adminfIxYtFW',
+	'password' => '9tTm7KTnw9hd',
+	'database' => 'example',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
